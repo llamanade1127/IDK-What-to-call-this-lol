@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7dc1099018a3d8439b84d52d1dec31f, type: 3}
+  m_Name: CrappyPistol
+  m_EditorClassIdentifier: 
+  weaponName: 
+  weaponDescription: 
+  body: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
+  bulletBody: {fileID: 3625043607559282579, guid: 0d267bc78a0864eb48358689b29ed20a, type: 3}
+  bulletSizeModifier: 1
+  onHitEffect: {fileID: 0}
+  rarityType: 0
+  damage: 12
+  fireRate: 2
+  bulletSpeed: 15
+  numOfShots: 2
+  spread: 3.5
+  accuracy: 1
+  canRicochet: 0
+  moveSpeed: 0
+  customBulletClasses: []
+  customPlayerClasses: []
